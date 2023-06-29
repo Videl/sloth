@@ -63,7 +63,7 @@
             # vendorHash = null;
 
             # proxyVendor = true;
-            vendorSha256 = "sha256-5ohRDAcITJDrCEVRnc1uAcNzJwklw7Mxe6YtsrbIB9Q=";
+            vendorSha256 = "sha256-APIqB8P7Zfta62RPhy3iLcQNeYBZZgRjw5LC0A18ES0=";
 
             # Needed for running the tests
             nativeBuildInputs = with pkgs; [ curl perl git ];
